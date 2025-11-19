@@ -1,11 +1,9 @@
 <div align=center>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=🌎Taeyoung's%20GitHub:)&fontSize=42" />
 </div>
 
-<h1 align="center">🌎 ty95jang`s GitHub :) 🌎</h1>
-<div>- 🌱 요즘 공부하는 것들은 알고리즘 & 웹 입니다. </div>
-
-
+<div align="center">- 🌱 요즘 공부하는 것들은 알고리즘 & 웹 입니다. </div> 
+  
 <h3>💯 Languages and Tools I've studied 💯</h3>
 
 <div />
